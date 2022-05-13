@@ -1,0 +1,7 @@
+def c(valor, porcentegem):
+    r = valor + (valor * porcentegem/100)
+    return r
+
+def redução(valor, porcentegem):
+    r = valor - (valor * porcentegem/100)
+    return r

@@ -1,0 +1,4 @@
+from calc import c 
+
+preco = 49.90
+print(c.preco)
